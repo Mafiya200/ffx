@@ -90,10 +90,10 @@ button {
   padding: 15px 25px;
   border-radius: 50px;
   font-size: 15px;
-  color: white;
+  color: rgb(122, 53, 91);
   text-transform: uppercase;
   background-size: 200%;
-  background-image: linear-gradient(to left, #16a085 0%, #f4d03f 100%);
+  background-image: linear-gradient(to left, #a57b06 0%, #f4d03f 100%);
   font-weight: 600;
   transition: all 0.5s;
   margin: 34px 0 0px 15px;
